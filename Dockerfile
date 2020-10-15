@@ -1,5 +1,5 @@
 FROM python:3.8.3-alpine
-MAINTAINER John Shanahan
+LABEL maintainer="John Shanahan"
 
 ENV PYTHONUNBUFFERED 1
 
